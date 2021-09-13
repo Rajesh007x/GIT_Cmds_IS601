@@ -1,1 +1,1 @@
-https://rajesh007x.github.io/MyFirstWebsiteIS601F21/
+The website link is https://rajesh007x.github.io/GIT_Cmds_IS601/
